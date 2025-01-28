@@ -47,5 +47,3 @@ Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
 ## Contact
 Pour toute question , vous pouvez me contacter via <ali123rahiqi@gmail.com> 
 
-## Auteurs
-- Ali Rahiqi
